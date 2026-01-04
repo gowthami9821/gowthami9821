@@ -12,12 +12,6 @@ Btech, 3rd year. surfed enough in ML projects, now want to dive into quantum wor
 ![](https://nirzak-streak-stats.vercel.app/?user=gowthami9821&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthami9821&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gowthami9821&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gowthami9821&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
